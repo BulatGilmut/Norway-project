@@ -1,1 +1,3 @@
 # Norway-project
+
+Модель VECM
